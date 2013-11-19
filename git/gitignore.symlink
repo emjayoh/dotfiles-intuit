@@ -6,3 +6,9 @@
 *.rbc
 .powenv
 autotest
+.idea/
+.idea/*
+.DS_Store
+.powenv
+.powder
+test.txt
