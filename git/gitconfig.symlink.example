@@ -8,8 +8,8 @@
 # install this to the correct location by running the project's main `rake`
 # task.
 [user]
-        name = Bradly Feeley
-        email = bradlyf@example.com
+        name = Jonathan Chay 
+        email = jonchay@example.com
 [alias]
         co = checkout
         s = status
@@ -24,7 +24,7 @@
 [apply]
         whitespace = nowarn
 [github]
-        user = bradly
+        user = jonchay
 [mergetool]
         keepBackup = false
 [heroku]
