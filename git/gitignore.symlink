@@ -13,3 +13,7 @@ autotest
 .powder
 test.txt
 .team
+tags
+.tags
+.tags_sorted_by_file
+.gemtags
