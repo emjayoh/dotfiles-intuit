@@ -29,6 +29,11 @@ though.
 The main file you'll want to change right off the bat is `zsh/zshrc.symlink`,
 which sets up a few paths that'll be different on your particular machine.
 
+
+## todo
+- Write Rake scripts to automatically sync sublime files:
+  http://zanshin.net/2013/01/21/sublime-text-2-dotfiles-simplified/
+
 ## topical
 
 Everything's built around topic areas. If you're adding a new area to your
