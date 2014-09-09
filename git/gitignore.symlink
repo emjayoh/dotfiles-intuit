@@ -5,6 +5,7 @@
 *.swp
 *.rbc
 .powenv
+.powrc
 autotest
 .idea/
 .idea/*
