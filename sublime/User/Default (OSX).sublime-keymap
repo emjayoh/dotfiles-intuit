@@ -1,5 +1,6 @@
 [
-	{ "keys": ["super+right"], "command": "next_view" },
-	{ "keys": ["super+left"], "command": "prev_view" }
+  { "keys": ["super+right"], "command": "next_view" },
+  { "keys": ["super+left"], "command": "prev_view" },
 //	{ "keys": ["super+shift+p"], "command": "noop"}
+  { "keys": ["control+f12"], "command": "edit_current_color_scheme" }
 ]

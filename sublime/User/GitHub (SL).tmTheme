@@ -178,7 +178,7 @@ selection       #B4D5FE handmade :-)
 				<key>comment</key>
 				<string>.style .nb</string>
 				<key>foreground</key>
-				<string>#0086B3</string>
+				<string>#008080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +191,7 @@ selection       #B4D5FE handmade :-)
 				<key>comment</key>
 				<string>.style .bp</string>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#0086b3</string>
 			</dict>
 		</dict>
 		<dict>
