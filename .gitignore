@@ -3,4 +3,4 @@ git/gitconfig.symlink
 mutt/mutt.symlink/cache/*
 mutt/mutt.symlink/certificates
 mutt/mutt.symlink/muttrc.local
-sublime/User/Package%20Control.*
+sublime/User/Package\ Control.*
