@@ -1,0 +1,6 @@
+{
+  "path": "/usr/local/share/npm/bin:/usr/local/bin:$PATH",
+  "working_dir": "${project_path:${folder}}/embed",
+  "cmd": ["grunt", "--no-color"],
+  "selector": ["source.js", "source.less", "source.json"]
+}

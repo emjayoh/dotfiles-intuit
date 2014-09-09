@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"CTags",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"Monokai Extended",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"SCSS",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-haml",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"VintageEx",
+		"Vintageous"
+	]
+}

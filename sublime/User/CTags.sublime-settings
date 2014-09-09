@@ -1,0 +1,7 @@
+{
+  "command": "/usr/local/bin/ctags",
+  "opts" : [
+    "--exclude=embed/bower_components",
+    "--exclude=embed/node_modules"
+  ],
+}
